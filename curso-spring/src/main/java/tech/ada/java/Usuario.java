@@ -15,4 +15,8 @@ public class Usuario {
  private String nome;
  private String emaii;
  private LocalDate dob;
+
+
+
+ // Criar uma api Rest
 }
